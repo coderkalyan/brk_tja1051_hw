@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "PESD2CANFD")(type "KiCad")(uri "${KIPRJMOD}/standard-libs/symbol/PESD2CANFD.kicad_sym")(options "")(descr ""))
+)
